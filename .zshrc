@@ -68,6 +68,7 @@ plugins=(
   git
   z # https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z
   tmux # https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/tmux
+  zsh-autosuggestions # https://github.com/zsh-users/zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -98,7 +99,7 @@ export LANG=en_US.UTF-8
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias zshconfig="vim ~/.zshrc"
+alias zshconfig="vim ~/dotfiles/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
 
 alias dcu="docker-compose up"
