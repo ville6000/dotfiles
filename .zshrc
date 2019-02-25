@@ -69,6 +69,7 @@ plugins=(
   z # https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z
   tmux # https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/tmux
   zsh-autosuggestions # https://github.com/zsh-users/zsh-autosuggestions
+  osx # https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/osx
 )
 
 source $ZSH/oh-my-zsh.sh
