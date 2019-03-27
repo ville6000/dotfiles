@@ -80,6 +80,9 @@ source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
 export LANG=en_US.UTF-8
+LC_CTYPE=en_US.UTF-8
+LC_ALL=en_US.UTF-8
+
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -106,6 +109,7 @@ alias ohmyzsh="vim ~/.oh-my-zsh"
 alias dcu="docker-compose up"
 alias dcs="docker-compose stop"
 alias dcb="docker-compose build"
+alias dcd="docker-compose down"
 alias dcwp='docker-compose exec --user www-data phpfpm wp'
 
 MORGAN_PROJECTS=$HOME/Projects
