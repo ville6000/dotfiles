@@ -33,11 +33,11 @@ set backspace=indent,eol,start	" Backspace behaviour
 nmap j gj
 nmap k gk
 
-colorscheme jellybeans
 syntax enable
 filetype plugin indent on
 
 if has('gui_running')
+    colorscheme jellybeans
     set macligatures
     set guifont=Fira\ Code:h13
 endif
