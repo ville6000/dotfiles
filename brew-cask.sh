@@ -7,9 +7,10 @@
 brew install caskroom/cask/brew-cask
 brew cask install iterm2
 brew cask install spectacle
-brew cask install dropbox
 brew cask install 1password
 brew cask install flux
+brew cask install alfred
+brew cask install macvim
 
 brew cask install spotify
 
