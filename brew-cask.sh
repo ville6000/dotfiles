@@ -11,6 +11,7 @@ brew cask install 1password
 brew cask install flux
 brew cask install alfred
 brew cask install macvim
+brew cask install evernote
 
 brew cask install spotify
 
