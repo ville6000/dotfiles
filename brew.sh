@@ -27,6 +27,7 @@ brew install wget
 brew install vim
 brew install grep
 brew install openssh
+brew install node
 brew install php
 brew install tmux
 brew install zsh
