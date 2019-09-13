@@ -35,6 +35,7 @@ brew install z
 brew install tree
 brew install ncdu
 brew install qcachegrind
+brew install zsh-syntax-highlighting
 
 # Remove outdated versions from the cellar.
 brew cleanup
