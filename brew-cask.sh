@@ -12,6 +12,7 @@ brew cask install flux
 brew cask install alfred
 brew cask install macvim
 brew cask install evernote
+brew cask install firefox
 
 brew cask install spotify
 
