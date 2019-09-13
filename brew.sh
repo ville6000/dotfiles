@@ -23,8 +23,8 @@ brew install findutils
 # Install GNU `sed`, overwriting the built-in `sed`.
 brew install gnu-sed --with-default-names
 
-brew install wget --with-iri
-brew install vim --with-override-system-vi
+brew install wget
+brew install vim
 brew install grep
 brew install openssh
 brew install php
