@@ -16,6 +16,7 @@ brew cask install firefox
 brew cask install slack
 brew cask install spotify
 brew cask install skitch
+brew cask install dropbox
 
 brew tap caskroom/fonts
 brew cask install font-fira-code
