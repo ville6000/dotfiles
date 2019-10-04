@@ -111,6 +111,7 @@ alias dcs="docker-compose stop"
 alias dcb="docker-compose build"
 alias dcd="docker-compose down"
 alias dcwp='docker-compose exec --user www-data phpfpm wp'
+alias dcwpm='docker-compose exec --user www-data phpfpm wp media regenerate --yes'
 
 MORGAN_PROJECTS=$HOME/Projects
 PATH=$HOME/bin:$PATH
